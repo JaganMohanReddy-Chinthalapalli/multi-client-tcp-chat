@@ -1,0 +1,19 @@
+# Compiled binaries
+src/server
+src/client
+
+# Development history / local backups
+development_history/
+
+# Debugging and temporary files
+*.o
+*.out
+*.log
+core
+core.*
+
+# Editor / OS files
+*.swp
+*.swo
+*~
+.DS_Store
